@@ -6,7 +6,7 @@ This project was developed for the summer Web Development course at JEDI Academy
 
 ## **Motivation**
 
-The project was developed with the aim of learning web development using vanilla HTML, CSS and Javascript, using some external libraries to ease some aspects of the development.
+The project was developed with the aim of learning web development using HTML, CSS and vanilla Javascript, using some external libraries to ease some aspects of the development.
 
 ## **About the Project**
 
